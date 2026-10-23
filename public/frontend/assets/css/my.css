@@ -1,0 +1,185 @@
+/* Make all Latest Car Advice images the same size */
+.news-section.five.six .news-card .news-img {
+    width: 100%;
+    height: 260px;
+    overflow: hidden;
+    position: relative;
+}
+
+.news-section.five.six .news-card .news-img>a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.news-section.five.six .news-card .news-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    border-radius: 5px;
+}
+
+
+/* Auto Parts Contact CTA */
+.parts-help-box {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    padding: 24px 18px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+}
+
+.parts-help-icon {
+    width: 58px;
+    height: 58px;
+    margin: 0 auto 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ff5900;
+    color: #fff;
+    border-radius: 50%;
+    font-size: 27px;
+}
+
+.parts-help-box h5 {
+    font-size: 19px;
+    line-height: 1.4;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #171717;
+}
+
+.parts-help-box p {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.parts-help-box a {
+    display: flex;
+    width: 100%;
+    min-height: 44px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 11px 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.parts-call-btn {
+    background: #ff5900;
+    color: #fff !important;
+    margin-bottom: 10px;
+}
+
+.parts-call-btn:hover {
+    background: rgb(53, 67, 158);
+}
+
+.parts-email-btn {
+    background: #fff;
+    color: #222 !important;
+    border: 1px solid #ddd;
+}
+
+.parts-email-btn:hover {
+    background: #f5f5f5;
+}
+
+.parts-help-note {
+    margin-top: 18px;
+    padding-top: 14px;
+    border-top: 1px solid #eee;
+    color: #555;
+    font-size: 12px;
+}
+
+.parts-help-note i {
+    color: #198754;
+    margin-right: 5px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 576px) {
+    .parts-help-box {
+        padding: 20px 16px;
+    }
+
+    .parts-help-box h5 {
+        font-size: 18px;
+    }
+
+    .parts-help-icon {
+        width: 52px;
+        height: 52px;
+        font-size: 24px;
+    }
+}
+
+/* ============================================================
+   Mobile Nested Sub-Menu Dropdown Fix
+   Makes Engine Parts / Transmission Parts / etc. expandable
+   on mobile. Only applies inside the off-canvas mobile menu.
+   ============================================================ */
+
+/* Ensure nested sub-menu LIs are laid out as block with
+   relative positioning so the dropdown-icon can be placed */
+@media (max-width: 991px) {
+
+    /* Each nested category row: flex so link + icon sit side-by-side */
+    .main-menu .sub-menu>li.menu-item-has-children {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    /* The category link takes all available space */
+    .main-menu .sub-menu>li.menu-item-has-children>a {
+        flex: 1 1 auto;
+    }
+
+    /* The + toggle icon: show it, make it tappable */
+    .main-menu .sub-menu>li.menu-item-has-children>.dropdown-icon {
+        display: inline-flex !important;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+        font-size: 18px;
+        color: inherit;
+        transition: transform 0.25s ease;
+    }
+
+    /* Rotate to X when open */
+    .main-menu .sub-menu>li.menu-item-has-children>.dropdown-icon.active {
+        transform: rotate(45deg);
+    }
+
+    /* The nested ul: hidden by default (JS slideToggle handles this),
+       takes full width so items stack below the parent row */
+    .main-menu .sub-menu>li.menu-item-has-children>ul.sub-menu {
+        display: none;
+        width: 100%;
+        flex-basis: 100%;
+        padding-left: 16px;
+    }
+}
+
+.help-box a {
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #ff5900 !important;
+}
