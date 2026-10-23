@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used GMC Parts | OEM GMC Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Find quality used GMC parts for Sierra, Yukon, Acadia, Terrain and more. Engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Find quality used GMC parts for Sierra, Yukon, Acadia, Terrain and more. Engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used GMC parts, OEM GMC parts, GMC engine, Sierra parts, Yukon parts, Acadia parts')
 @section('canonical', 'https://buysparepart.org/gmc-parts')
 @section('og_title', 'Used GMC Parts | OEM GMC Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Find quality used GMC parts for Sierra, Yukon, Acadia, Terrain and more. Engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Find quality used GMC parts for Sierra, Yukon, Acadia, Terrain and more. Engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/gmc-parts')
 
 @section('content')

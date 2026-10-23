@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Nissan Parts | OEM Nissan Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Shop quality used Nissan parts for Altima, Sentra, Rogue, Pathfinder, Frontier and more. VQ engines, CVT transmissions, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Shop quality used Nissan parts for Altima, Sentra, Rogue, Pathfinder, Frontier and more. VQ engines, CVT transmissions, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Nissan parts, OEM Nissan parts, Nissan engine, Altima parts, Rogue parts, VQ engine')
 @section('canonical', 'https://buysparepart.org/nissan-parts')
 @section('og_title', 'Used Nissan Parts | OEM Nissan Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Shop quality used Nissan parts for Altima, Sentra, Rogue, Pathfinder, Frontier and more. VQ engines, CVT transmissions, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Shop quality used Nissan parts for Altima, Sentra, Rogue, Pathfinder, Frontier and more. VQ engines, CVT transmissions, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/nissan-parts')
 
 @section('content')

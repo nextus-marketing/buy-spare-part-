@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Mazda Parts | OEM Mazda SKYACTIV Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Shop quality used Mazda parts for Mazda3, Mazda6, CX-5, CX-9 and more. SKYACTIV engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Shop quality used Mazda parts for Mazda3, Mazda6, CX-5, CX-9 and more. SKYACTIV engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Mazda parts, OEM Mazda parts, Mazda engine, CX-5 parts, Mazda3 parts, SKYACTIV engine')
 @section('canonical', 'https://buysparepart.org/mazda-parts')
 @section('og_title', 'Used Mazda Parts | OEM Mazda SKYACTIV Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Shop quality used Mazda parts for Mazda3, Mazda6, CX-5, CX-9 and more. SKYACTIV engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Shop quality used Mazda parts for Mazda3, Mazda6, CX-5, CX-9 and more. SKYACTIV engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/mazda-parts')
 
 @section('content')

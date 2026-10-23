@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Audi Parts | OEM Audi Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Find quality used and OEM Audi auto parts for A4, A6, A8, Q5, Q7, TT, S4 and more. Engines, transmissions, Quattro drivetrain, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Find quality used and OEM Audi auto parts for A4, A6, A8, Q5, Q7, TT, S4 and more. Engines, transmissions, Quattro drivetrain, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Audi parts, OEM Audi parts, Audi engine, Audi transmission, Audi A4 parts, Audi Q5 parts, Quattro drivetrain')
 @section('canonical', 'https://buysparepart.org/audi-parts')
 @section('og_title', 'Used Audi Parts | OEM Audi Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Find quality used and OEM Audi auto parts for A4, A6, A8, Q5, Q7, TT, S4 and more. Engines, transmissions, Quattro drivetrain, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Find quality used and OEM Audi auto parts for A4, A6, A8, Q5, Q7, TT, S4 and more. Engines, transmissions, Quattro drivetrain, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/audi-parts')
 
 @section('content')

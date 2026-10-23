@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Mercedes-Benz Parts | OEM MB Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Find quality used Mercedes-Benz parts for C-Class, E-Class, GLE, GLC and more. Engines, 9G-Tronic transmissions, AMG parts, electrical. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Find quality used Mercedes-Benz parts for C-Class, E-Class, GLE, GLC and more. Engines, 9G-Tronic transmissions, AMG parts, electrical. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Mercedes-Benz parts, OEM MB parts, Mercedes engine, C-Class parts, E-Class parts, GLE parts')
 @section('canonical', 'https://buysparepart.org/mercedes-benz-parts')
 @section('og_title', 'Used Mercedes-Benz Parts | OEM MB Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Find quality used Mercedes-Benz parts for C-Class, E-Class, GLE, GLC and more. Engines, 9G-Tronic transmissions, AMG parts, electrical. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Find quality used Mercedes-Benz parts for C-Class, E-Class, GLE, GLC and more. Engines, 9G-Tronic transmissions, AMG parts, electrical. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/mercedes-benz-parts')
 
 @section('content')

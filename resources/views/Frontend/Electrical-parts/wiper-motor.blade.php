@@ -1,8 +1,8 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = 'tel:+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = 'tel:+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('title')

@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Tesla Parts | OEM Tesla Drive Motors, Batteries & More - Buy Spare Part')
-@section('meta_description', 'Shop quality used Tesla parts for Model 3, Model S, Model X, Model Y. Drive motors, battery modules, suspension, MCU electronics. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Shop quality used Tesla parts for Model 3, Model S, Model X, Model Y. Drive motors, battery modules, suspension, MCU electronics. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Tesla parts, OEM Tesla parts, Tesla motor, Tesla battery, Model 3 parts, Model S parts, Model Y parts')
 @section('canonical', 'https://buysparepart.org/tesla-parts')
 @section('og_title', 'Used Tesla Parts | OEM Tesla Drive Motors, Batteries & More - Buy Spare Part')
-@section('og_description', 'Shop quality used Tesla parts for Model 3, Model S, Model X, Model Y. Drive motors, battery modules, suspension, MCU electronics. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Shop quality used Tesla parts for Model 3, Model S, Model X, Model Y. Drive motors, battery modules, suspension, MCU electronics. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/tesla-parts')
 
 @section('content')

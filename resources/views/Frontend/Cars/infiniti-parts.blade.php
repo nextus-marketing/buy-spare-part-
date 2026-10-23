@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Infiniti Parts | OEM Infiniti Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Shop quality used Infiniti parts for Q50, Q60, QX60, QX80 and more. Engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Shop quality used Infiniti parts for Q50, Q60, QX60, QX80 and more. Engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Infiniti parts, OEM Infiniti parts, Infiniti engine, Q50 parts, QX60 parts, QX80 parts')
 @section('canonical', 'https://buysparepart.org/infiniti-parts')
 @section('og_title', 'Used Infiniti Parts | OEM Infiniti Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Shop quality used Infiniti parts for Q50, Q60, QX60, QX80 and more. Engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Shop quality used Infiniti parts for Q50, Q60, QX60, QX80 and more. Engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/infiniti-parts')
 
 @section('content')

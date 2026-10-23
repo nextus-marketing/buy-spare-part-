@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Volkswagen Parts | OEM VW TSI Engines, DSG Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Shop quality used Volkswagen parts for Jetta, Golf, GTI, Tiguan, Atlas, Passat and more. TSI engines, DSG transmissions, 4MOTION, electrical. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Shop quality used Volkswagen parts for Jetta, Golf, GTI, Tiguan, Atlas, Passat and more. TSI engines, DSG transmissions, 4MOTION, electrical. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Volkswagen parts, OEM VW parts, VW engine, TSI engine, DSG transmission, Jetta parts, Golf GTI parts')
 @section('canonical', 'https://buysparepart.org/volkswagen-parts')
 @section('og_title', 'Used Volkswagen Parts | OEM VW TSI Engines, DSG Transmissions & More - Buy Spare Part')
-@section('og_description', 'Shop quality used Volkswagen parts for Jetta, Golf, GTI, Tiguan, Atlas, Passat and more. TSI engines, DSG transmissions, 4MOTION, electrical. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Shop quality used Volkswagen parts for Jetta, Golf, GTI, Tiguan, Atlas, Passat and more. TSI engines, DSG transmissions, 4MOTION, electrical. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/volkswagen-parts')
 
 @section('content')

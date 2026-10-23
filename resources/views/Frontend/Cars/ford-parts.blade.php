@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Ford Parts | OEM Ford Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Shop quality used Ford parts for F-150, Mustang, Explorer, Escape, Bronco and more. Engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Shop quality used Ford parts for F-150, Mustang, Explorer, Escape, Bronco and more. Engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Ford parts, OEM Ford parts, Ford engine, Ford F-150 parts, Mustang parts, Explorer parts')
 @section('canonical', 'https://buysparepart.org/ford-parts')
 @section('og_title', 'Used Ford Parts | OEM Ford Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Shop quality used Ford parts for F-150, Mustang, Explorer, Escape, Bronco and more. Engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Shop quality used Ford parts for F-150, Mustang, Explorer, Escape, Bronco and more. Engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/ford-parts')
 
 @section('content')

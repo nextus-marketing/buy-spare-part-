@@ -11,7 +11,7 @@
          ============================================= -->
     @php
         $metaTitle       = trim($__env->yieldContent('meta_title')) ?: (trim($__env->yieldContent('title')) ?: 'Buy Spare Part | Quality Used & OEM Auto Parts Nationwide');
-        $metaDescription = trim($__env->yieldContent('meta_description')) ?: 'Buy Spare Part supplies quality used and OEM replacement engines, transmissions, electrical, suspension, and body parts for all major brands. Call us at +1 (888) 855-2919 for instant availability. Nationwide shipping.';
+        $metaDescription = trim($__env->yieldContent('meta_description')) ?: 'Buy Spare Part supplies quality used and OEM replacement engines, transmissions, electrical, suspension, and body parts for all major brands. Call us at +1 (855) 994-4611 for instant availability. Nationwide shipping.';
         $metaKeywords    = trim($__env->yieldContent('meta_keywords'))     ?: 'used car parts, OEM auto parts, replacement engines, transmissions, electrical parts, suspension parts, buy spare part, buy spare parts, used auto parts USA';
         $metaRobots      = trim($__env->yieldContent('meta_robots'))       ?: 'index, follow';
         $metaCanonical   = trim($__env->yieldContent('canonical'))         ?: ('https://buysparepart.org' . request()->getPathInfo());
@@ -31,7 +31,7 @@
     <meta name="theme-color" content="#ff5900">
 
     <!-- Contact / Business -->
-    <meta name="contact"  content="+1 (888) 855-2919">
+    <meta name="contact"  content="+1 (855) 994-4611">
     <meta name="reply-to" content="support@buysparepart.org">
 
     <!-- Canonical -->
@@ -49,7 +49,7 @@
     <meta property="og:image:width"  content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:locale"       content="en_US">
-    <meta property="og:phone_number" content="+18888552919">
+    <meta property="og:phone_number" content="+18559944611">
 
     <!-- =============================================
          STRUCTURED DATA — LocalBusiness (JSON-LD)
@@ -64,7 +64,7 @@
         "logo": "https://buysparepart.org/frontend/assets/logo.png",
         "image": "https://buysparepart.org/frontend/assets/logo.png",
         "description": "Buy Spare Part supplies quality used and OEM replacement engines, transmissions, electrical, suspension, and body parts for all major vehicle brands. Nationwide shipping available.",
-        "telephone": "+18888552919",
+        "telephone": "+18559944611",
         "priceRange": "$$",
         "address": {
             "@type": "PostalAddress",
@@ -72,7 +72,7 @@
         },
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+18888552919",
+            "telephone": "+18559944611",
             "contactType": "customer support",
             "areaServed": "US",
             "availableLanguage": "English",
@@ -149,7 +149,7 @@
                         </div>
                         <div class="content">
                             <span>To More Inquiry</span>
-                            <h6><a href="tel:+18888552919">+1 (888) 855-2919</a></h6>
+                            <h6><a href="tel:+18559944611">+1 (855) 994-4611</a></h6>
                         </div>
                     </div>
 
@@ -313,14 +313,14 @@
                 
                 <div class="content">
                     <span>To More Inquiry</span>
-                    <h6><a href="tel:+18888552919">+1 (888) 855-2919</a></h6>
+                    <h6><a href="tel:+18559944611">+1 (855) 994-4611</a></h6>
                 </div>
             </div>
         </div>
         <div class="nav-right d-flex jsutify-content-end align-items-center">
            
             <a type="button" class="primary-btn6"
-               href="tel:+18888552919">
+               href="tel:+18559944611">
 
                 <i class="fa-solid fa-phone"></i>
                 Call Now
@@ -473,7 +473,7 @@
                     </div>
                     <div class="content">
                         <span>To More Inquiry</span>
-                        <h6><a href="tel:+18888552919">+1 (888) 855-2919</a></h6>
+                        <h6><a href="tel:+18559944611">+1 (855) 994-4611</a></h6>
                     </div>
                 </div>
                 <div class="hotline-area">
@@ -513,7 +513,7 @@
 
     
 <!-- Modern Floating Call Button -->
-<a href="tel:+18888552919" class="floating-call-btn" aria-label="Call us now">
+<a href="tel:+18559944611" class="floating-call-btn" aria-label="Call us now">
     <span class="call-icon">
         <svg xmlns="http://www.w3.org/2000/svg"
              width="25" height="25" viewBox="0 0 24 24"
@@ -646,8 +646,8 @@
         </button>
 
         <!-- Entire card is clickable and calls -->
-        <a href="tel:+18888552919" id="callOfferCard" class="cp-link"
-           aria-label="Call Buy Spare Part at +1 888-855-2919">
+        <a href="tel:+18559944611" id="callOfferCard" class="cp-link"
+           aria-label="Call Buy Spare Part at +1 (855) 994-4611">
 
             <!-- LEFT / TOP : OFFER -->
             <div class="cp-side">
@@ -744,7 +744,7 @@
                     </span>
                     <span class="cp-cta-text">
                         <small>Call our parts team</small>
-                        <strong>+1 (888) 855-2919</strong>
+                        <strong>+1 (855) 994-4611</strong>
                     </span>
                 </div>
 

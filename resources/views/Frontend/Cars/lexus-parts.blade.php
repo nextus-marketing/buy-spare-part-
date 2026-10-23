@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Lexus Parts | OEM Lexus Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Find quality used Lexus parts for RX, ES, GX, LX, IS and more. Engines, transmissions, suspension, hybrid components. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Find quality used Lexus parts for RX, ES, GX, LX, IS and more. Engines, transmissions, suspension, hybrid components. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Lexus parts, OEM Lexus parts, Lexus engine, Lexus RX parts, Lexus ES parts, Lexus IS parts')
 @section('canonical', 'https://buysparepart.org/lexus-parts')
 @section('og_title', 'Used Lexus Parts | OEM Lexus Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Find quality used Lexus parts for RX, ES, GX, LX, IS and more. Engines, transmissions, suspension, hybrid components. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Find quality used Lexus parts for RX, ES, GX, LX, IS and more. Engines, transmissions, suspension, hybrid components. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/lexus-parts')
 
 @section('content')

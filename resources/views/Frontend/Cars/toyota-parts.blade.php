@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Toyota Parts | OEM Toyota Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Find quality used Toyota parts for Camry, Corolla, RAV4, Highlander, Tacoma, Tundra and more. Engines, transmissions, hybrid parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Find quality used Toyota parts for Camry, Corolla, RAV4, Highlander, Tacoma, Tundra and more. Engines, transmissions, hybrid parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Toyota parts, OEM Toyota parts, Toyota engine, Camry parts, Tacoma parts, RAV4 parts')
 @section('canonical', 'https://buysparepart.org/toyota-parts')
 @section('og_title', 'Used Toyota Parts | OEM Toyota Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Find quality used Toyota parts for Camry, Corolla, RAV4, Highlander, Tacoma, Tundra and more. Engines, transmissions, hybrid parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Find quality used Toyota parts for Camry, Corolla, RAV4, Highlander, Tacoma, Tundra and more. Engines, transmissions, hybrid parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/toyota-parts')
 
 @section('content')

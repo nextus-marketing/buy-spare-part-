@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Acura Parts | OEM Acura Engines, Transmissions & More – Buy Spare Part')
-@section('meta_description', 'Find quality used and OEM Acura auto parts for MDX, TLX, RDX, Integra, TL and more. Engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Find quality used and OEM Acura auto parts for MDX, TLX, RDX, Integra, TL and more. Engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Acura parts, OEM Acura parts, Acura engine, Acura transmission, Acura MDX parts, Acura TLX parts, Acura RDX parts')
 @section('canonical', 'https://buysparepart.org/acura-parts')
 @section('og_title', 'Used Acura Parts | OEM Engines, Transmissions & More – Buy Spare Part')
-@section('og_description', 'Shop quality used Acura parts. Engines, transmissions, electrical and more for MDX, TLX, RDX. Call +1 (888) 855-2919. Fast US shipping.')
+@section('og_description', 'Shop quality used Acura parts. Engines, transmissions, electrical and more for MDX, TLX, RDX. Call +1 (855) 994-4611. Fast US shipping.')
 @section('og_url', 'https://buysparepart.org/acura-parts')
 
 @section('content')

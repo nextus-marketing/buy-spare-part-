@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Volvo Parts | OEM Volvo Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Find quality used Volvo parts for XC90, XC60, XC40, S60, S90, V60, V90 and more. Drive-E engines, Geartronic transmissions, AWD parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Find quality used Volvo parts for XC90, XC60, XC40, S60, S90, V60, V90 and more. Drive-E engines, Geartronic transmissions, AWD parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Volvo parts, OEM Volvo parts, Volvo engine, XC90 parts, XC60 parts, Drive-E engine')
 @section('canonical', 'https://buysparepart.org/volvo-parts')
 @section('og_title', 'Used Volvo Parts | OEM Volvo Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Find quality used Volvo parts for XC90, XC60, XC40, S60, S90, V60, V90 and more. Drive-E engines, Geartronic transmissions, AWD parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Find quality used Volvo parts for XC90, XC60, XC40, S60, S90, V60, V90 and more. Drive-E engines, Geartronic transmissions, AWD parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/volvo-parts')
 
 @section('content')

@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Used Kia Parts | OEM Kia Engines, Transmissions & More - Buy Spare Part')
-@section('meta_description', 'Shop quality used Kia parts for Sorento, Sportage, Telluride, Soul, Optima and more. Engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('meta_description', 'Shop quality used Kia parts for Sorento, Sportage, Telluride, Soul, Optima and more. Engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('meta_keywords', 'used Kia parts, OEM Kia parts, Kia engine, Sorento parts, Sportage parts, Telluride parts')
 @section('canonical', 'https://buysparepart.org/kia-parts')
 @section('og_title', 'Used Kia Parts | OEM Kia Engines, Transmissions & More - Buy Spare Part')
-@section('og_description', 'Shop quality used Kia parts for Sorento, Sportage, Telluride, Soul, Optima and more. Engines, transmissions, suspension, electrical parts. Call +1 (888) 855-2919. Nationwide shipping.')
+@section('og_description', 'Shop quality used Kia parts for Sorento, Sportage, Telluride, Soul, Optima and more. Engines, transmissions, suspension, electrical parts. Call +1 (855) 994-4611. Nationwide shipping.')
 @section('og_url', 'https://buysparepart.org/kia-parts')
 
 @section('content')

@@ -1,16 +1,16 @@
 @extends('layouts.frontend')
 
 @php
-    $phone = '+18888552919';
-    $phoneLabel = '+1 (888) 855-2919';
+    $phone = '+18559944611';
+    $phoneLabel = '+1 (855) 994-4611';
 @endphp
 
 @section('meta_title', 'Buy Spare Part | Quality Used & OEM Auto Parts – Engines, Transmissions & More')
-@section('meta_description', 'Buy Spare Part is your premier destination for tested OEM and recycled auto components. Certified engines, transmissions, suspension, and electrical parts for all makes. Call +1 (888) 855-2919. Fast nationwide delivery.')
+@section('meta_description', 'Buy Spare Part is your premier destination for tested OEM and recycled auto components. Certified engines, transmissions, suspension, and electrical parts for all makes. Call +1 (855) 994-4611. Fast nationwide delivery.')
 @section('meta_keywords', 'used car parts, OEM auto parts, replacement engines, used transmissions, suspension parts, electrical car parts, buy spare part, buy spare parts online, auto parts USA')
 @section('canonical', 'https://buysparepart.org/')
 @section('og_title', 'Buy Spare Part | Certified OEM & Quality Replacement Auto Parts')
-@section('og_description', 'Find inspected OEM and quality replacement auto parts for all major makes and models. Engines, transmissions, electrical, suspension & more. Call +1 (888) 855-2919.')
+@section('og_description', 'Find inspected OEM and quality replacement auto parts for all major makes and models. Engines, transmissions, electrical, suspension & more. Call +1 (855) 994-4611.')
 @section('og_url', 'https://buysparepart.org/')
 @section('og_image', 'https://buysparepart.org/frontend/assets/logo.png')
 
@@ -140,7 +140,7 @@
                     </div>
                     <div class="bcp-step-text">
                         <h3>Call Us</h3>
-                        <p>Call <a href="tel:+18888552919">+1 (888) 855-2919</a> and speak with our parts specialist.</p>
+                        <p>Call <a href="tel:+18559944611">+1 (855) 994-4611</a> and speak with our parts specialist.</p>
                     </div>
                     <svg class="bcp-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                          stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-7-7 7 7-7 7"/></svg>
@@ -208,11 +208,11 @@
                 
                 <div>
                     <strong>Quality Parts. Trusted Service.</strong>
-                    <span>Call us today: <a href="tel:+18888552919">+1 (888) 855-2919</a></span>
+                    <span>Call us today: <a href="tel:+18559944611">+1 (855) 994-4611</a></span>
                 </div>
             </div>
 
-            <a href="tel:+18888552919" class="bcp-call-btn">
+            <a href="tel:+18559944611" class="bcp-call-btn">
                 <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                     <path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.36 11.36 0 003.56.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.56 1 1 0 01-.25 1.02z"/>
                 </svg>
@@ -1170,7 +1170,7 @@
                                     <li class=""><i class="bi bi-star-half"></i></li>
                                 </ul>
                             </div>
-                            <span>Call Now: +1 (888) 855-2919</span>
+                            <span>Call Now: +1 (855) 994-4611</span>
                         </a>
                     </div>
                 </div>
